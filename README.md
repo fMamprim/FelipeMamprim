@@ -2,6 +2,7 @@
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
+
 ## 🛠️ O que Estou Aprendendo
 
 <div align="center">
