@@ -1,4 +1,4 @@
-# 🚀 Cursando Técnico de Desenvolvimento de Sistemas no SENAI
+# 🚀 Olá, sou [Seu Nome]!
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
@@ -10,17 +10,18 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/postgresql-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
 </div>
 
-## 📚 Como Estou Aprendendo
+## 🎓 O que Estou Fazendo Atualmente
 
-- **Aulas teóricas e práticas** no SENAI.
-- **Projetos práticos** usando as tecnologias mencionadas.
-- **Estudo de algoritmos e estruturas de dados**.
+Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
+- **Algoritmos e lógica de programação**.
+- **Desenvolvimento de websites com HTML, CSS e JavaScript**.
+- **Desenvolvimento de aplicações web com Node.js e React**.
+- **Trabalhos com banco de dados, como MySQL e MongoDB**.
 
-## 📬 Contato
+## 🎯 Expectativas para o Futuro
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-perfil)
-- [Email](mailto:seu-email@example.com)
+Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais. Meu objetivo é me tornar um desenvolvedor full-stack e, com o tempo, avançar para posições de liderança técnica em empresas de tecnologia.
